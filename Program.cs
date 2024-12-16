@@ -2,19 +2,19 @@
 
 public class Program
 {
-    static string name;
-    static string age;
-    static string eyeColor;
-    static string hairColor;
-    static string shoeSize;
-    static string favoriteColor;
-    static string favoriteTVorMovie;
-    static string favoriteTeacher;
-    static string favoriteClass;
-    static string favoriteHoliday;
-    static string favoriteSeason;
-    static string dreamJob;
-    static string numberOfSiblings;
+    public static string name;
+    public static string age;
+    public static string eyeColor;
+    public static string hairColor;
+    public static string shoeSize;
+    public static string favoriteColor;
+    public static string favoriteTVorMovie;
+    public static string favoriteTeacher;
+    public static string favoriteHoliday;
+    public static string favoriteSeason;
+    public static string dreamJob;
+    public static string numberOfSiblings;
+    public static string favoriteClass;
 
 
     public static void Main(string[] args)
